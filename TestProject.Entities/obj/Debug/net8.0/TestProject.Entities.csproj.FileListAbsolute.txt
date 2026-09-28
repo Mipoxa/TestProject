@@ -1,0 +1,11 @@
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\bin\Debug\net8.0\TestProject.Entities.deps.json
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\bin\Debug\net8.0\TestProject.Entities.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\bin\Debug\net8.0\TestProject.Entities.pdb
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.AssemblyInfoInputs.cache
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.AssemblyInfo.cs
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\refint\TestProject.Entities.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\TestProject.Entities.pdb
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.Entities\obj\Debug\net8.0\ref\TestProject.Entities.dll

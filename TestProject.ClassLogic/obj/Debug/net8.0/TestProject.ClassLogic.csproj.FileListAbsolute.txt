@@ -1,0 +1,15 @@
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\bin\Debug\net8.0\TestProject.ClassLogic.deps.json
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\bin\Debug\net8.0\TestProject.ClassLogic.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\bin\Debug\net8.0\TestProject.ClassLogic.pdb
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\bin\Debug\net8.0\TestProject.Entities.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\bin\Debug\net8.0\TestProject.Entities.pdb
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.csproj.AssemblyReference.cache
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.AssemblyInfoInputs.cache
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.AssemblyInfo.cs
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.csproj.CoreCompileInputs.cache
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProj.AF41C600.Up2Date
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\refint\TestProject.ClassLogic.dll
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\TestProject.ClassLogic.pdb
+C:\Users\poxam\Desktop\TestProject\TestProject\TestProject.ClassLogic\obj\Debug\net8.0\ref\TestProject.ClassLogic.dll
